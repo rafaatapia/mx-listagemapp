@@ -36,12 +36,12 @@
 		<version>20180813</version>
 	</dependency>
 
-	<!-- https://mvnrepository.com/artifact/org.eclipse/swt -->
+	<!-- https://mvnrepository.com/artifact/org.eclipse.swt/org.eclipse.swt.win32.win32.x86 -->
 	<dependency>
-		<groupId>org.eclipse</groupId>
-		<artifactId>swt</artifactId>
-		<version>3.3.0-v3346</version>
-	</dependency>	
+	    <groupId>org.eclipse.swt</groupId>
+	    <artifactId>org.eclipse.swt.win32.win32.x86</artifactId>
+	    <version>4.3</version>
+	</dependency>
 
   </dependencies>
 </project>
